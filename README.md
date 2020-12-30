@@ -1,6 +1,6 @@
 # Vlc_Control_By_HandGestures
 
-Deep learning Application to control and Software/Hardware by Hand Gesture
+Deep learning Application to control the Software/Hardware by Hand Gesture
 
 Used Where Voice assistant fails miserabely
 
